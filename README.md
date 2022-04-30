@@ -71,8 +71,29 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/koroteevmv/koroteevmv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koroteevmv&hide=html,css,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
 <a href="https://github.com/koroteevmv/koroteevmv">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=koroteevmv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mikhail's GitHub Stats" />
+</a>
+
+<a href="https://github.com/koroteevmv/PyPGM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koroteevmv&repo=PyPGM&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/koroteevmv/PyInference">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koroteevmv&repo=PyInference&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/koroteevmv/ML_course">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koroteevmv&repo=ML_course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/koroteevmv/mapreducepy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koroteevmv&repo=mapreducepy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/koroteevmv/allocation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koroteevmv&repo=allocation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/koroteevmv/cloud-panel">
