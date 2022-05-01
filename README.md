@@ -3,7 +3,7 @@
 
 ##  👨‍💻 Whoami
 
-My name is Mikhail Koroteev and I am a software developer and a machine learning researcher. I'm from Russia, currently living im Moscow and working at Financial University.
+My name is Mikhail Koroteev and I am a software developer and a machine learning researcher. I'm from Russia, currently living in Moscow and working at Financial University.
 
 
 ## 🔧 Technologies & Tools
