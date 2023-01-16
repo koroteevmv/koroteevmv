@@ -33,7 +33,7 @@ My name is Mikhail Koroteev and I am a software developer and a machine learning
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [koroteev.site](https://koroteev.site/blog)
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/koroteevmv/koroteevmv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koroteevmv&hide=html,css,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -65,7 +65,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <a href="https://github.com/koroteevmv/cloud-panel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koroteevmv&repo=cloud-panel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
 
 ## 📫 Reach me on
 
